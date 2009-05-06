@@ -1,0 +1,3 @@
+rake code_review
+
+Parses git status response, reads in the files, and generates a pdf for people attending the review.
