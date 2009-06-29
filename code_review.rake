@@ -10,7 +10,6 @@ class GitParser
   
   def initialize(text)
     @text = text
-    create_review
   end
     
   def create_review
